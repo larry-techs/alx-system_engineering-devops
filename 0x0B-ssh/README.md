@@ -16,4 +16,4 @@
 * OS: Ubuntu 14.04 LTS
 ---
 ### Authors
-Robert Kamau Njonjo
+Larry-techs
